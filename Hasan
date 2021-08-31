@@ -1,0 +1,16 @@
+Version Code: 7
+Version Name: 0.0.13
+Build Time: 08/03/2021 12:53 PM
+
+Device Name: SamsungSM-A207F
+CPU Info: ABI: arm64-v8a
+BogoMIPS: 38.40
+CPU_revision: 4
+Processor: AArch64 Processor rev 4 (aarch64)
+CPU_architecture: 8
+CPU_part: 0xd03
+Features: fp asimd evtstrm aes pmull sha1 sha2 crc32
+CPU_implementer: 0x41
+Hardware: Qualcomm Technologies, Inc SDM450
+processor: 7
+CPU_variant: 0x0
